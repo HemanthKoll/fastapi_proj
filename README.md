@@ -1,4 +1,4 @@
-# fastapi_proj
+# fastapi_pizza_api_project
 This is a REST API for a Pizza delivery service built for fun and learning with FastAPI, SQLAlchemy and PostgreSQL.
 
 
